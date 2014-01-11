@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1435994388">
+    <data-source source="LOCAL" name="Rails sample_app_4_a: development" uuid="e0e7b94c-25ec-4823-87ad-d8e2fc81f6dd">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:sample_app_4_a_development</jdbc-url>
+      <user-name>elvis</user-name>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails sample_app_4_a: test" uuid="0d30112b-9cfa-4371-b0d7-87b71f42f892">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:sample_app_4_a_test</jdbc-url>
+      <user-name>elvis</user-name>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails sample_app_4_a: production" uuid="76e4fd87-4806-4586-ba16-0e5e080cb648">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:sample_app_4_a_production</jdbc-url>
+      <user-name>elvis</user-name>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
